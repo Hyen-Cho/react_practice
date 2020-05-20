@@ -1,2 +1,1 @@
-# react_practice
-리액트 어렵다
+깃 혼자 해본다
